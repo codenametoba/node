@@ -1,0 +1,15 @@
+{
+  "name": "nodecheck",
+  "version": "1.0.0",
+  "description": "trying to get my checkpoint done",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "ANGEL DORCAS",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.0"
+  }
+}
